@@ -1,5 +1,5 @@
 # Loan-Analysis
-This is a loan data in where we have to predict loan_status based on several atrributes. These attributes are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. 
+This is a loan data in where we have to predict loan_status based on several atrributes. These attributes are Gender, Education, Income, Prinpal, Loan Status, Credit History and others. 
 
 Responsibilities :
 
